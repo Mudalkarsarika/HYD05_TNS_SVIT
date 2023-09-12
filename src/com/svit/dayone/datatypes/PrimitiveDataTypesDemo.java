@@ -1,4 +1,4 @@
-package dayone.datatypes;
+package com.svit.dayone.datatypes;
 
 public class PrimitiveDataTypesDemo {
 	

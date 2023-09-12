@@ -1,4 +1,4 @@
-package daytwo.conditions;
+package com.svit.daytwo.conditions;
 
 public class ContinueDemo {
 	public static void main(String[] args) {

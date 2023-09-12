@@ -1,4 +1,4 @@
-package daytwo.conditions;
+package com.svit.daytwo.conditions;
 
 public class DecisionMakingWithOperators {
 	public static void main(String[] args) {
